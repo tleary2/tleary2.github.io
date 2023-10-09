@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Personal Indroduction</title>
+<style>
+body{
+	background-color:#E040CE;
+}
+h1{
+	color:#E665B1;
+}
+p{
+	color:#F2D6E6;
+}
+</style>
+</head>
+<body>
+<h1>My name is Tamara Leary.</h1>
+<p>My favorite color is purple. I love shopping. My favorite sport is basketball.</p>
+</body>
+</html>
